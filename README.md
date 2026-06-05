@@ -162,3 +162,6 @@ The `run` key executes a **shell command** directly on the machine.
 ├── requirements.txt         # Dependencies
 └── README.md
 ```
+
+## License
+This project is licensed under the MIT License.
